@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anitax07" alt="anitax07" /></a> </p -->
-https://www.svgrepo.com/show/353655/discord-icon.svg
+
 
 
 <h3 align="left">Connect with me:</h3>
